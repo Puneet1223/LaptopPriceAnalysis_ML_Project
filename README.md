@@ -52,7 +52,7 @@ pip install -r requirements.txt
 Run the Flask app:
 python app.py
 Open a browser and go to:
-http://3.87.246.21:8000:8000
+http://3.87.246.21:8000
 Enter laptop specifications and click Predict to see the estimated price.
 
 ## **Deployment
