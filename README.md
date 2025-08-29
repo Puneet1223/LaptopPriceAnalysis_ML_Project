@@ -46,6 +46,7 @@ python3 -m venv venv
 source venv/bin/activate   # For Linux/macOS
 ## Install dependencies
 pip install -r requirements.txt
+```
 
 ## **Usage
 Run the Flask app:
@@ -53,6 +54,7 @@ python app.py
 Open a browser and go to:
 http://3.87.246.21:8000:8000
 Enter laptop specifications and click Predict to see the estimated price.
+
 ## **Deployment
 This project can be deployed on:
 AWS EC2 using a public IP and custom TCP port.
@@ -66,4 +68,4 @@ Bootstrap 5 for frontend
 AWS EC2 for deployment
 
 ## Screenshots
-![Home Page](screenshots/laptop.png)
+![Home Page](assets/laptop.png)
